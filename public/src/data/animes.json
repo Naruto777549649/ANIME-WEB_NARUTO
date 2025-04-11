@@ -1,1 +1,39 @@
-
+// src/data/animes.json
+[
+  {
+    "id": "1",
+    "title": "Attack on Titan",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+    "description": "After his hometown is destroyed and his mother is killed, young Eren Yeager joins the Survey Corps to fight giant man-eating humanoids known as Titans.",
+    "episodes": [
+      {
+        "number": 1,
+        "title": "To You, in 2000 Years",
+        "videoUrl": "https://www.youtube.com/embed/MGRm4IzK1SQ"
+      },
+      {
+        "number": 2,
+        "title": "That Day",
+        "videoUrl": "https://www.youtube.com/embed/fE0rjVSLk0Q"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Naruto",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/17405.jpg",
+    "description": "Naruto Uzumaki is a young ninja with a sealed demon fox inside him. Follow his journey to become the strongest Hokage.",
+    "episodes": [
+      {
+        "number": 1,
+        "title": "Uzumaki Naruto",
+        "videoUrl": "https://www.youtube.com/embed/Wxw-PnA1rnk"
+      },
+      {
+        "number": 2,
+        "title": "My Name is Konohamaru!",
+        "videoUrl": "https://www.youtube.com/embed/W7oxWFNRxAY"
+      }
+    ]
+  }
+]
